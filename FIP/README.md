@@ -2,7 +2,7 @@
 This is a python implementation of "Joint Friendship and Interest Propagation".
 
 ## Input Data Format
-Rating matrix is stored in coordinate format (user, item, rating). Feature matrix is stored in dense format (user/item id, feature 1, feauture2, ..., feature n).
+Rating matrix is stored in coordinate format (user, item, rating). Feature matrix is stored in dense format (id, feature 1, feauture2, ..., feature n). See **data/ml-1m/** for examples.
 
 ## Quick Start
 ```

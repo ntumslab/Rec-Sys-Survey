@@ -1,23 +1,23 @@
 # Experiment Code for 
 This repository contains the codes or the links to codes to run the experiment in this paper "Review of Attribute-Aware Collaborative Filtering Based Recommender Systems".
 
-## TF
+## Tensor Factorization
 https://github.com/VincentLiu3/TF
 
-## CMF
+## Collective Matrix Factorization
 https://github.com/VincentLiu3/CMF
 
-## RLFM 
+## Regression-based Latent Factor Model
 https://github.com/beechung/Latent-Factor-Models
 
-## FIP
+## Friendship-Interest Propagation 
 see the directory FIP/.
 
-## LibFM
+## Factorization Machine (LibFM)
 https://github.com/srendle/libfm
 
-## CDL
+## Collaborative Deep Learning 
 http://www.wanghao.in/CDL.htm
 
-## LibMF
+## Matrix Factorization (LibMF)
 https://github.com/cjlin1/libmf
